@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Thushalini Uthayachandran</h1>
+<h1 align="center">Hi 👋 I'm Thushalini Uthayachandran</h1>
 <h3 align="center">Software Engineering Undergraduate | Full Stack Developer | MERN Stack Enthusiast</h3>
 
 ---
