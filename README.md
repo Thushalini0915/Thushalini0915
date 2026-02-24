@@ -66,7 +66,7 @@
 
 ## 📌 Featured Projects
 
-### 🛍 Online Dress Shopping Management System (Ongoing)
+### 🛍 Online Dress Shopping Management System 
 React (TypeScript) | Tailwind CSS | Node.js | Express.js | MongoDB  
 
 ### 🍽 Online Smart Restaurant Management System
